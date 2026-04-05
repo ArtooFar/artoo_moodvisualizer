@@ -1,6 +1,15 @@
 # Mood Visualizer
 
-A simple Streamlit app that reads diary-style text files, runs sentiment analysis with NLTK's VADER model, and plots positivity and negativity over time.
+Mood Visualizer is a Streamlit application that analyzes diary entries using natural language processing and visualizes sentiment trends over time.
+
+The project was developed as a practical exploration of sentiment analysis in personal text data, combining VADER-based polarity scoring with interactive Plotly visualizations. Its main purpose is to study how NLP techniques can be applied to temporal text analysis in a simple and accessible interface.
+
+This project demonstrates practical experience with:
+- NLP preprocessing workflows
+- sentiment analysis
+- text-based feature extraction
+- temporal data visualization
+- interactive application development
 
 ## Features
 
